@@ -1,0 +1,21 @@
+.component3-container {
+  width: 320px;
+  margin: var(--dl-space-space-halfunit);
+  display: flex;
+  position: relative;
+  font-size: 25 px;
+  align-items: center;
+  flex-direction: column;
+}
+.component3-image {
+  width: var(--dl-size-size-doubleunit);
+  height: var(--dl-size-size-doubleunit);
+  object-fit: cover;
+}
+.component3-text {
+  margin-top: var(--dl-space-space-unit);
+  margin-bottom: var(--dl-space-space-unit);
+}
+.component3-text1 {
+  text-align: center;
+}
